@@ -46,7 +46,7 @@ async function main() {
                 return value;
             })
 
-            console.log(passwordvalue == "Test11" ? "Password is correct" : "Password is not correct")
+            console.log(passwordvalue == "Test12" ? "Password is correct" : "Password is not correct")
 
             await new Promise(res => setTimeout(res, 1000));
 
